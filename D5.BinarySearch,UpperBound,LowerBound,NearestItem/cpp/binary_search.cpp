@@ -108,13 +108,6 @@ int nearest_num(vector<int> arr,int item){
     return (item-arr[end]<=arr[start]-item)?arr[end]:arr[start];
 }
 
-
-
-
-
-
-
-
 int main(){
     vector<int> arr = {2,2,4,5,8,8,8,8,12,17,18,18};
     cout<<endl;

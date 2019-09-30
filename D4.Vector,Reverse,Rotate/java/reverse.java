@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-import javax.xml.stream.events.EndElement;
-
 class main{
     public static int[] rotate2(int arr[],int r){
         r=r%arr.length;
