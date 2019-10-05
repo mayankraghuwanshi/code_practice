@@ -28,21 +28,7 @@ void add_matrix(vector<vector<int>> & arr1,vector<vector<int>> & arr2){
     }
 
 }
-void multiply_matrix(vector<vector<int>> & arr1, vector<vector<int>> &arr2){
-    if(arr1.size()!=arr2[0].size()){
-        cout<<"Can't multiply!"<<endl;
-    }
-    for(int row=0;row<arr1.size();row++){
-        for(int col=0;col<arr1[0].size();col++){
-            int temp=0;
-            for(int k=0;k<arr1.size();k++){
-                temp+=arr1[row][k]*arr2[k][col];
-            }
-            arr1[row][col]=temp;
-        }
-    }
-
-}
+void multiply_matrix(vector<vector<int>> & arr1, vector<vector<int>> &arr2);
 
 void zigzag1(vector<vector<int>> & arr){
     bool left_to_right=true;
