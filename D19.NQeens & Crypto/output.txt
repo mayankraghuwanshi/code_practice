@@ -1,0 +1,26 @@
+s:2 e:8 n:1 d:7 m:0 o:3 r:6 y:5 
+s:2 e:8 n:1 d:9 m:0 o:3 r:6 y:7 
+s:3 e:7 n:1 d:2 m:0 o:4 r:6 y:9 
+s:3 e:7 n:1 d:9 m:0 o:4 r:5 y:6 
+s:3 e:8 n:2 d:1 m:0 o:4 r:6 y:9 
+s:3 e:8 n:2 d:9 m:0 o:4 r:5 y:7 
+s:5 e:7 n:3 d:1 m:0 o:6 r:4 y:8 
+s:5 e:7 n:3 d:2 m:0 o:6 r:4 y:9 
+s:5 e:8 n:4 d:9 m:0 o:6 r:3 y:7 
+s:6 e:4 n:1 d:5 m:0 o:7 r:3 y:9 
+s:6 e:4 n:1 d:9 m:0 o:7 r:2 y:3 
+s:6 e:5 n:2 d:4 m:0 o:7 r:3 y:9 
+s:6 e:8 n:5 d:1 m:0 o:7 r:3 y:9 
+s:6 e:8 n:5 d:3 m:0 o:7 r:2 y:1 
+s:7 e:3 n:1 d:6 m:0 o:8 r:2 y:9 
+s:7 e:4 n:2 d:9 m:0 o:8 r:1 y:3 
+s:7 e:5 n:3 d:1 m:0 o:8 r:2 y:6 
+s:7 e:5 n:3 d:4 m:0 o:8 r:2 y:9 
+s:7 e:5 n:3 d:9 m:0 o:8 r:1 y:4 
+s:7 e:6 n:4 d:3 m:0 o:8 r:2 y:9 
+s:7 e:6 n:4 d:9 m:0 o:8 r:1 y:5 
+s:8 e:3 n:2 d:4 m:0 o:9 r:1 y:7 
+s:8 e:4 n:3 d:2 m:0 o:9 r:1 y:6 
+s:8 e:5 n:4 d:2 m:0 o:9 r:1 y:7 
+s:9 e:5 n:6 d:7 m:1 o:0 r:8 y:2 
+25
